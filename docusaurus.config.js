@@ -8,10 +8,10 @@ const config = {
   future: {},
 
   url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/whitepapertest/',
+  baseUrl: '/templatetest/',
 
   organizationName: 'kennyofthesmith',
-  projectName: 'whitepapertest',
+  projectName: 'templatetest',
 
   onBrokenLinks: 'throw',
 
